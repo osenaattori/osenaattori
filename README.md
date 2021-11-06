@@ -16,7 +16,7 @@
 <h3 align="left">Discord:</h3>
 <p align="left">
 <a href="https://discord.gg/habib#9809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="habib#9809" height="30" width="40" /></a>
-<a href="/https://feeds.yle.fi/uutiset/v1/majorheadlines/yle_uutiset.rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.yle.fi/uutiset/v1/majorheadlines/yle_uutiset.rss" height="80" width="40" /></a>
+
 </p>
 
 <h3 align="left">Kielet ja työkalut:</h3>
