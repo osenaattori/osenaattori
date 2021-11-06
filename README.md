@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, I'm Oskari</h1>
+<h1 align="center">Hi 👋, Nimeni on Oskari</h1>
 <h3 align="center">Tykkään koodailla</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ose&label=Profile%20views&color=0e75b6&style=flat" alt="ose" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ose" alt="ose" /></a> </p>
 
-- 🔭 I’m currently working on [H4WK](https://github.com/Mixu2021/H4WK)
+- 🔭 Työskentelen [H4WK](https://github.com/Mixu2021/H4WK)
 
-- 🌱 I’m currently learning **c#, Pyhton, Js, Flask**
+- 🌱 Opettelen tällä hetkellä **c#, Pyhton, Js, Flask**
 
 - 👨‍💻 All of my projects are available at [https://oskari.netlify.app/](https://oskari.netlify.app/)
 
-- 📫 How to reach me **oskari.t.hirvonen@gmai.com**
-
 - 📄 Taidot [https://oskari.netlify.app/resume](https://oskari.netlify.app/resume)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Discord:</h3>
 <p align="left">
 <a href="https://discord.gg/habib#9809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="habib#9809" height="30" width="40" /></a>
-<a href="/https://feeds.yle.fi/uutiset/v1/majorheadlines/yle_uutiset.rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.yle.fi/uutiset/v1/majorheadlines/yle_uutiset.rss" height="30" width="40" /></a>
+<a href="/https://feeds.yle.fi/uutiset/v1/majorheadlines/yle_uutiset.rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.yle.fi/uutiset/v1/majorheadlines/yle_uutiset.rss" height="80" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
