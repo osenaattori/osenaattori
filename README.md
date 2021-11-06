@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://oskari.netlify.app/](https://oskari.netlify.app/)
 
-- 📄 Taidot [Resume](https://oskari.netlify.app/resume)
+- 📄 Taidot [Resume](oskari.netlify.app/resume)
 
 <h3 align="left">Discord:</h3>
 <p align="left">
