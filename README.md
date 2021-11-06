@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Nimeni on Oskari</h1>
-<h3 align="center">Tykkään koodailla</h3>
+<h1 align="center">Hei👋, Nimeni on Oskari</h1>
+<h3 align="center">Tykkään koodailla ja murtautua systeemeihin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ose&label=Profile%20views&color=0e75b6&style=flat" alt="ose" /> </p>
 
