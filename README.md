@@ -9,9 +9,9 @@
 
 - 🌱 Opettelen tällä hetkellä **c#, Pyhton, Js, Flask**
 
-- 👨‍💻 All of my projects are available at [https://oskari.netlify.app/](https://oskari.netlify.app/)
+- 👨‍💻 Lisätieto aminusta [Portfolioni](https://oskari.netlify.app/)
 
-- 📄 Taidot [Resume](https://oskari.netlify.app/resume)
+- 📄 Taidot [Resume](https://oskari.netlify.app)
 
 <h3 align="left">Discord:</h3>
 <p align="left">
