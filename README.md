@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ose" alt="ose" /></a> </p>
 
-- 🔭 Työskentelen 
+- 🔭 Työskentelen, Kattoo ny
 
 - 🌱 Opettelen tällä hetkellä **c#, Pyhton, Js, Flask**
 
-- 👨‍💻 Lisätieto aminusta [Portfolioni](https://oskari.netlify.app/)
+- 👨‍💻 Lisätieto aminusta [Portfolioni](https://osenaattori.github.io/)
 
-- 📄 Taidot [Resume](https://oskari.netlify.app)
+- 📄 Taidot [Resume](https://osenaattori.github.io/resume)
 
 <h3 align="left">Discord:</h3>
 <p align="left">
