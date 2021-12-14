@@ -11,7 +11,7 @@
 
 - 👨‍💻 Lisätietoa minusta [Portfolioni](https://osenaattori.github.io/OskariPortfolios/)
 
-- 📄 Taidot [Resume](https://osenaattori.github.io/resume)
+- 📄 Taidot [Resume](https://osenaattori.github.io/OskariPortfolios/)
 
 <h3 align="left">Discord:</h3>
 <p align="left">
