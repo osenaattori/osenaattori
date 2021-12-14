@@ -9,7 +9,7 @@
 
 - 🌱 Opettelen tällä hetkellä **c#, Pyhton, Js, Flask**
 
-- 👨‍💻 Lisätieto aminusta [Portfolioni](https://osenaattori.github.io/)
+- 👨‍💻 Lisätietoa minusta [Portfolioni](https://osenaattori.github.io/)
 
 - 📄 Taidot [Resume](https://osenaattori.github.io/resume)
 
