@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ose" alt="ose" /></a> </p>
 
-- 🔭 Työskentelen [H4WK](https://github.com/Mixu2021/H4WK)
+- 🔭 Työskentelen 
 
 - 🌱 Opettelen tällä hetkellä **c#, Pyhton, Js, Flask**
 
