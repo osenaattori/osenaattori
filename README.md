@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ose" alt="ose" /></a> </p>
 
-- 🔭 Työskentelen, Kattoo ny
+- 🔭 Työskentelen, Omaa netti sivua Flask ja next.js
 
-- 🌱 Opettelen tällä hetkellä **c#, Pyhton, Js, Flask**
+- 🌱 Opettelen tällä hetkellä **c#, Python, Js, Flask**
 
 - 👨‍💻 Lisätietoa minusta [Portfolioni](https://osenaattori.github.io/OskariPortfolios/)
 
