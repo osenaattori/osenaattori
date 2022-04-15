@@ -1,17 +1,15 @@
 <h1 align="center">Hei👋, Nimeni on Oskari</h1>
-<h3 align="center">Tykkään koodailla ja oppia uusia koodikieliä</h3>
+<h3 align="center">Tykkään tehdä nettisivuja</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ose&label=Profile%20views&color=0e75b6&style=flat" alt="ose" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ose" alt="ose" /></a> </p>
 
-- 🔭 Työskentelen, Omaa netti sivua Flask ja next.js
 
-- 🌱 Opettelen tällä hetkellä **c#, Python, Js, Flask**
 
-- 👨‍💻 Lisätietoa minusta [Portfolioni](https://osenaattori.github.io/OskariPortfolios/)
+- 🌱 Opettelen tällä hetkellä **c#, Python, Js, React, NextJS ja MongoDB**
 
-- 📄 Taidot [Resume](https://osenaattori.github.io/OskariPortfolios/)
+- 👨‍💻 Lisätietoa minusta [Portfolioni](https://ose.codes)
 
 <h3 align="left">Discord:</h3>
 <p align="left">
